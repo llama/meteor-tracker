@@ -8,7 +8,7 @@ In your router or controllers:
 AppTracker.track('Clicked link ' + slug);
 ###
 
-class Tracker
+class @Tracker
 
   constructor: (@name) ->
     @_trackers = []
