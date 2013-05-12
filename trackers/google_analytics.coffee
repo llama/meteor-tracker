@@ -1,4 +1,4 @@
-class GoogleAnalyticsTracker
+class @GoogleAnalyticsTracker
 
   constructor: (options) ->
     @_gaq = @_gaq or []
